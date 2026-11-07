@@ -1,10 +1,11 @@
-<img width="1917" height="1005" alt="Cuplikan layar 2026-11-07 182548" src="https://github.com/user-attachments/assets/ac23ce7f-7eb1-451d-be44-1f09c85cbd59" />
-<img width="1917" height="1006" alt="Cuplikan layar 2026-11-07 182615" src="https://github.com/user-attachments/assets/1639fe4c-f17f-4d3c-a113-3ffb34b4ed91" />
-<img width="1917" height="1007" alt="Cuplikan layar 2026-11-07 182805" src="https://github.com/user-attachments/assets/64d8b434-7117-4797-864d-20f458bee459" />
-<img width="1917" height="921" alt="Cuplikan layar 2026-11-07 182835" src="https://github.com/user-attachments/assets/94aeafe2-c73f-4d2a-bde0-a3f3d8de29bb" />
-<img width="1915" height="583" alt="Cuplikan layar 2026-11-07 182904" src="https://github.com/user-attachments/assets/2e62d9bf-fd22-4f26-9bd4-e2e1aa694a66" />
-<img width="1917" height="1008" alt="Cuplikan layar 2026-11-07 182926" src="https://github.com/user-attachments/assets/0c306591-ade9-4fee-bba2-40470732a0fd" />
-<img width="1917" height="732" alt="Cuplikan layar 2026-11-07 183105" src="https://github.com/user-attachments/assets/a7b46c14-04ac-4b3d-b264-c12f72cd2275" />
-<img width="1917" height="753" alt="Cuplikan layar 2026-11-07 183132" src="https://github.com/user-attachments/assets/248f4346-e9ec-4010-9e2e-37a382d9db6f" />
-<img width="1917" height="963" alt="Cuplikan layar 2026-11-07 183213" src="https://github.com/user-attachments/assets/5efc0b02-71b9-427c-8ca0-532e836c075b" />
+<img width="1917" height="1013" alt="Cuplikan layar 2026-11-07 184317" src="https://github.com/user-attachments/assets/78248a46-5ffd-4203-9e45-270b5b620cfa" />
+<img width="1917" height="903" alt="Cuplikan layar 2026-11-07 184337" src="https://github.com/user-attachments/assets/fcc82158-95d1-4fee-a1df-ee169364898f" />
+<img width="1917" height="787" alt="Cuplikan layar 2026-11-07 184419" src="https://github.com/user-attachments/assets/6e23317a-512a-4737-9e71-e198d97be9d2" />
+<img width="1917" height="491" alt="Cuplikan layar 2026-11-07 184453" src="https://github.com/user-attachments/assets/858560b9-4bfa-4856-95aa-5949b7ddad20" />
+<img width="1917" height="997" alt="Cuplikan layar 2026-11-07 184638" src="https://github.com/user-attachments/assets/0a2a161b-6ffd-4dc2-8af9-86e793842f9d" />
+<img width="1917" height="1075" alt="Cuplikan layar 2026-11-07 184709" src="https://github.com/user-attachments/assets/a7d6a33d-3c26-4570-a4b7-f33e2058d2ca" />
+<img width="1917" height="697" alt="Cuplikan layar 2026-11-07 184833" src="https://github.com/user-attachments/assets/e2ffd845-ed76-4f61-a918-b902803d0e90" />
+<img width="1917" height="690" alt="Cuplikan layar 2026-11-07 185029" src="https://github.com/user-attachments/assets/6d3ec91e-1f97-46ef-9033-6dba8309ca45" />
+<img width="1917" height="966" alt="Cuplikan layar 2026-11-07 185101" src="https://github.com/user-attachments/assets/5ef43c23-47e5-411a-abb6-e5e6cd3c76f1" />
+
 # tugas-uts-web1
