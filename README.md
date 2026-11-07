@@ -1,6 +1,5 @@
 <img width="1917" height="1005" alt="Cuplikan layar 2026-11-07 182548" src="https://github.com/user-attachments/assets/ac23ce7f-7eb1-451d-be44-1f09c85cbd59" />
 <img width="1917" height="1006" alt="Cuplikan layar 2026-11-07 182615" src="https://github.com/user-attachments/assets/1639fe4c-f17f-4d3c-a113-3ffb34b4ed91" />
-<img width="1917" height="1015" alt="Cuplikan layar 2026-11-07 182630" src="https://github.com/user-attachments/assets/c9b8ee2e-8291-4798-9e2f-1267f06be8f8" />
 <img width="1917" height="1007" alt="Cuplikan layar 2026-11-07 182805" src="https://github.com/user-attachments/assets/64d8b434-7117-4797-864d-20f458bee459" />
 <img width="1917" height="921" alt="Cuplikan layar 2026-11-07 182835" src="https://github.com/user-attachments/assets/94aeafe2-c73f-4d2a-bde0-a3f3d8de29bb" />
 <img width="1915" height="583" alt="Cuplikan layar 2026-11-07 182904" src="https://github.com/user-attachments/assets/2e62d9bf-fd22-4f26-9bd4-e2e1aa694a66" />
